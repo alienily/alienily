@@ -14,6 +14,6 @@
 
 ⚡ Stuff I'm working on!
 
-- 🌱 I’m learning ** C++ ** this coming fall semester
+- 🌱 I’m learning **C++** this coming fall semester
 
 - 📝 All of my projects are available [here](https://github.com/alienily?tab=repositories)
