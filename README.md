@@ -6,11 +6,11 @@
 
 - 📈 My first degree was a BA in Public Health at the University of Washington
 
-- 👩🏻‍💻 I'm currently a junior in my second degree, which is a BS in Computer Science with Oregon State University
+- 👩🏻‍💻 I'm currently a senior in my second degree, which is a BS in Computer Science with Oregon State University
 
 - ❤️‍🩹 I have 3 years of social services and public health professional experience.
 
-- 🇺🇸 I'm currently seeking winter 2023, summer 2023, and fall 2023 software engineer internships in USA
+- 🇺🇸 I'm currently seeking entryl level/new grad software engineer positions for spring 2023. 
 
 ⚡ Stuff I'm working on!
 
